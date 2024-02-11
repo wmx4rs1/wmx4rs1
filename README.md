@@ -7,5 +7,4 @@
 - 🌱 I’m currently learning about web frameworks such as FastAPI, Flask, and Django to deepen my understanding of backend development and build more robust and scalable web applications.
 - 👯 I'm looking to collaborate on development projects, while currently holding a part-time position at one of the banks in Russia, but I'm also considering options for official employment.
 - 💬 Ask me about anything related to web development, and I'll respond within 5 seconds. If I don't know the answer, I'll tell you how to quickly find it through a Google search.
-- 😄 Pronouns: He
 - ⚡ Fun fact: I absolutely love humor and practically live by it!
